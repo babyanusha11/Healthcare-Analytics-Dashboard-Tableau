@@ -62,7 +62,9 @@ This project focuses on analyzing healthcare data to uncover patterns related to
 ---
 
 ## 📷 Dashboard Preview
+## 📷 Dashboard Preview
 
+![Healthcare Analytics Dashboard](Images/dashboard.png)
 
 
 
